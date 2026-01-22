@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RudolphD-py
 - 👀 I’m interested in anime, gaming, reading, movies, and hanging out with my kids.
-- 🌱 I’m currently learning Python.
+- 🌱 I'm currently studying for A+, willing to learn and grow in the tech field.
 - 💞️ I’m looking to collaborate on... atm I'm really just trying to learn unless you're willing to help me with coding.
 - 📫 How to reach me ...
 - 😄 Pronouns: bro/dude/man
